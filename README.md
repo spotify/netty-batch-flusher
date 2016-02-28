@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/spotify/netty-batch-flusher.png?branch=master)](https://travis-ci.org/spotify/netty-batch-flusher)
 
-A batcher of netty channel flushes for gathering writes into fewer syscalls.
+An implementation of natural batching for netty channels to gather writes into fewer syscalls.
 
 ## Usage
 
